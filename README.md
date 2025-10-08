@@ -1,5 +1,3 @@
-# Course: AI With Reinforcement Learning
-
 # Project Title: Recommendation System
 
 ## Goal:
@@ -75,3 +73,4 @@ I've ran 25 episodes and created a score metric which collects the rewards in ea
 
 1. http://romisatriawahono.net/lecture/rm/survey/information%20retrieval/Bobadilla%20-%20Recommender%20Systems%20-%202013.pdf
 2. https://applyingml.com/resources/rl-for-recsys/
+
